@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mai-kwando/static/css/main.88365143.css",
+    "main.js": "/mai-kwando/static/js/main.646e0723.js",
+    "static/media/background.png": "/mai-kwando/static/media/background.315b0c6ceb46e7066b43.png",
+    "index.html": "/mai-kwando/index.html",
+    "main.88365143.css.map": "/mai-kwando/static/css/main.88365143.css.map",
+    "main.646e0723.js.map": "/mai-kwando/static/js/main.646e0723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88365143.css",
+    "static/js/main.646e0723.js"
+  ]
+}
