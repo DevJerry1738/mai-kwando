@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mai-kwando/static/css/main.88365143.css",
-    "main.js": "/mai-kwando/static/js/main.646e0723.js",
+    "main.css": "/mai-kwando/static/css/main.e6337cec.css",
+    "main.js": "/mai-kwando/static/js/main.3ac91fef.js",
     "static/media/background.png": "/mai-kwando/static/media/background.315b0c6ceb46e7066b43.png",
     "index.html": "/mai-kwando/index.html",
-    "main.88365143.css.map": "/mai-kwando/static/css/main.88365143.css.map",
-    "main.646e0723.js.map": "/mai-kwando/static/js/main.646e0723.js.map"
+    "main.e6337cec.css.map": "/mai-kwando/static/css/main.e6337cec.css.map",
+    "main.3ac91fef.js.map": "/mai-kwando/static/js/main.3ac91fef.js.map"
   },
   "entrypoints": [
-    "static/css/main.88365143.css",
-    "static/js/main.646e0723.js"
+    "static/css/main.e6337cec.css",
+    "static/js/main.3ac91fef.js"
   ]
 }
